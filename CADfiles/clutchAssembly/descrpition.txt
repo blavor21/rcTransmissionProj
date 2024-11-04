@@ -1,0 +1,1 @@
+CAD files for the initial clutch assembly. Might create some sub-folders for newer itterations. 
