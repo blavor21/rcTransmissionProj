@@ -1,5 +1,5 @@
 # rcTransmissionProj
-Revamped repo for my Transmission project. Adding a 3-4 speed transmission to a RC car. Here you'll find CAD and other software files.
+Revamped repo for my Transmission project (original was a mess :( whoops). Adding a 3-4 speed transmission to a RC car. Here you'll find CAD and other software files.
 
 Most of the CAD files are SLDPRT, but some may be Fusion f3d or STL/Gcode for print settings. 
 
